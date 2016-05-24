@@ -1,4 +1,4 @@
 # Summary
 
-* 1.basic types
+* [Introduction](README.md)
 
