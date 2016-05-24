@@ -1,4 +1,4 @@
-# TypeScript-Handbook
+# TypeScript-Handbook 中文手册
 
 [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Handbook.svg)](https://travis-ci.org/Microsoft/TypeScript-Handbook)
 
